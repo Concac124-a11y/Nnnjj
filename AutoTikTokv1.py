@@ -1,5 +1,5 @@
-#cre : huongdev27
-#zalo : 0362166863
+
+
 import json
 import requests,os,time
 import socket
